@@ -1,0 +1,33 @@
+<teiHeader>
+<fileDesc>
+<titleStmt>
+  <title>พลังงานโชว์ฐานะกองทุนฯ1.6หมื่นล้าน  </title>
+  <author>กรุงเทพธุรกิจ  </author>
+</titleStmt>
+<publicationStmt>
+  <publisher>กรุงเทพธุรกิจ  </publisher>
+  <pubPlace>http://www.bangkokbiznews.com  </pubPlace>
+  <date>2009-05-13 00:00:00  </date>
+</publicationStmt>
+<notesStmt>
+  <note>เศรษฐกิจ  </note>
+</notesStmt>
+<sourceDesc>
+  <bibl>http://www.bangkokbiznews.com/2009/05/13/news_28730613.php?news_id=28730613  </bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<news>
+<headline>พลังงานโชว์ฐานะกองทุนฯ<measure commodity="กองทุนฯ" type="มูลค่า"><quantity>1.6หมื่นล้าน</quantity></measure></headline>
+<lead>สบพน. ยันกองทุนน้ำมันฯ มีสภาพคล่องรับภาระพยุงราคาน้ำมัน หลังจากรัฐบาลประกาศปรับเพิ่มภาษีสรรพสามิตน้ำมัน<measure commodity="ภาษี" type="มูลค่า"><offset>อีก</offset><offset>ลิตรละ</offset> <quantity>2</quantity> <unit>บาท</unit></measure> <measure commodity="ประเภทน้ำมัน" type="จำนวน"><offset>ทุก</offset><unit>ประเภท</unit></measure> เผยฐานะกองทุนฯ สุทธิ ปัจจุบันมีอยู่<measure commodity="กองทุนฯ" type="มูลค่า"><offset>กว่า</offset> <quantity>1.6 หมื่นล้าน</quantity><unit>บาท</unit></measure></lead>
+<neck></neck>
+<body><p>นายศิวะนันท์ ณ นคร ผู้อำนวยการสถาบันบริหารกองทุนพลังงาน (องค์การมหาชน) (สบพน.) เปิดเผยถึงฐานะของกองทุนน้ำมันเชื้อเพลิงในปัจจุบันว่า มีสภาพคล่องเพียงพอในการพยุงราคาน้ำมัน เพื่อไม่ให้ราคาหน้าสถานีบริการน้ำมันปรับขึ้นตามภาษีสรรพสามิตที่รัฐบาลจะประกาศใช้เร็วๆ นี้ ขณะนี้กองทุนฯ มีฐานะสุทธิอยู่ที่ <measure commodity="กองทุนฯ" type="มูลค่า"><quantity>16,169 ล้าน</quantity><unit>บาท</unit></measure>
+ในจำนวนดังกล่าวได้หักค่าใช้จ่ายค้างจ่ายเมื่อปี 2551 ไว้แล้ว แต่มีรายรับเข้ามา<measure commodity="รายรับ" type="มูลค่า"><offset>เดือนละ</offset> <quantity>3,700 ล้าน</quantity><unit>บาท</unit></measure> ซึ่งภาระส่วนใหญ่อยู่ในระดับ <measure commodity="รายจ่าย" type="มูลค่า"><quantity>1,000 ล้าน</quantity><unit>บาท</unit></measure> มาจากการชดเชยส่วนต่างราคาการนำเข้าก๊าซปิโตรเลียมเหลว (แอลพีจี) ล่าสุดที่ได้ใช้เงินกองทุนฯ จ่ายเมื่อเดือนม.ค. 2552 อยู่ที่ <measure commodity="ส่วนต่างราคา" type="มูลค่า"><quantity>73 ล้าน</quantity><unit>บาท</unit></measure> ส่วนเดือนก.พ. ซึ่งไม่มีการนำเข้าเดือนมี.ค.-เม.ย. อยู่ระหว่างการตรวจสอบตัวเลขนำเข้า</p>
+<p>ส่วนการชดเชยการผลิตน้ำมันเชื้อเพลิงมาตรฐานยูโร 4 อยู่ในระดับ <measure commodity="การชดเชยการผลิต" type="มูลค่า"><quantity>100-200 ล้าน</quantity><unit>บาท</unit></measure>ต่อเดือน ภาระจากการชดเชยพลังงานทดแทนนั้น ขณะนี้ใช้เงินกองทุนฯ ชดเชยแก๊สโซฮอล์ อี 20 ที่<measure commodity="เงินชดเชย" type="มูลค่า"><offset>ลิตรละ</offset> <quantity>30</quantity> <unit>สตางค์</unit></measure> แก๊สโซฮอล์ อี 85 ชดเชยที่ <measure commodity="เงินชดเชย" type="มูลค่า"><quantity>8</quantity> <unit>บาท</unit> <offset>ต่อลิตร</offset></measure> และ ไบโอดีเซล ที่ <measure commodity="เงินชดเชย" type="มูลค่า"><quantity>20</quantity> <unit>สตางค์</unit><offset>ต่อลิตร</offset></measure> ซึ่งเป็นภาระที่ไม่มากนักในแต่ละเดือน</p>
+<p>นายศิวะนันท์ กล่าวว่านอกจากนี้รัฐบาลยังมีแนวทาง ที่จะทยอยปรับภาษีสรรพสามิตไม่ให้ขึ้นตามเพดาน<measure commodity="ภาษี" type="จำนวน"><offset>ทั้งหมด</offset></measure>ทันที ดังนั้นกองทุนฯไม่ต้องรับภาระ<measure commodity="รับภาระ" type="จำนวน"><unit>ครั้ง</unit><offset>เดียว</offset></measure> อีกทั้งรัฐบาลยังมีนโยบายชัดเจนที่จะไม่ทำให้ราคาน้ำมันในประเทศต่ำเกินไป เพื่อส่งเสริมให้เกิดการใช้ที่มีประสิทธิภาพ สุดท้ายจะทำให้อัตราภาษีสรรพสามิต<measure commodity="ภาษี" type="จำนวน"><offset>ทั้งหมด</offset></measure>อยู่ในโครงสร้างราคาน้ำมัน</p>
+<p>"เพื่อช่วยเหลือประชาชน การปรับขึ้นภาษีสรรพสามิตครั้งนี้ จำเป็นต้องใช้เงินกองทุนฯมาพยุง เพื่อไม่ให้ราคาน้ำมันหน้าปั๊มปรับขึ้น ซึ่งจะทำให้รัฐไม่ต้องมีภาระเรื่องการเช็คสต็อกน้ำมัน" นายศิวะนันท์ กล่าว</p>
+<p>นายศิวะนันท์ ย้ำว่า การปรับภาษีสรรพสามิตนั้น ผู้ใช้น้ำมันจะไม่ได้รับผลกระทบในระยะแรก แต่ในระยะยาว รัฐบาลระบุชัดเจนว่า ภาษีสรรพสามิตน้ำมันจะต้องอยู่ในโครงสร้างราคา ซึ่งแนวทางนี้จะส่งผลให้กองทุนฯ ไม่ต้องมีภาระในระยะยาว</p>
+<p>อย่างไรก็ตาม ขณะนี้กองทุนฯ ต้องรอดูนโยบายรัฐบาลก่อนว่า จะทยอยปรับขึ้นภาษีสรรพสามิตน้ำมันอย่างไร จึงจะทราบภาระของกองทุนฯที่จะต้องพยุงราคาแต่ละเดือน ปัจจุบันไทยมียอดใช้น้ำมันกลุ่มเบนซินอยู่ <measure commodity="ยอดใช้น้ำมัน" type="ปริมาณ"><quantity>600 ล้าน</quantity><unit>ลิตร</unit><offset>ต่อเดือน</offset></measure> และกลุ่มดีเซล <measure commodity="ยอดใช้น้ำมัน" type="ปริมาณ"><quantity>1,500 ล้าน</quantity><unit>ลิตร</unit><offset>ต่อเดือน</offset></measure></p>
+<p>ปัจจุบัน กองทุนฯ มีรายได้หลักจากการเก็บเงินจากน้ำมัน เบนซิน 95 เก็บที่ <measure commodity="รายได้"><quantity>7</quantity> <unit>บาท</unit><offset>ต่อลิตร</offset></measure> เบนซิน 91 เก็บที่ <measure commodity="รายได้" type="มูลค่า"><quantity>5.7</quantity> <unit>บาท</unit><offset>ต่อลิตร</offset></measure> แก๊สโซฮอล์ 95 เก็บที่ <measure commodity="รายได้" type="มูลค่า"><quantity>2.35</quantity> <unit>บาท</unit><offset>ต่อลิตร</offset></measure> แก๊สโซฮอล์ 91 เก็บที่ <measure commodity="รายได้" type="มูลค่า"><quantity>1.75</quantity> <unit>บาท</unit><offset>ต่อลิตร</offset></measure> ดีเซล เก็บที่ <measure commodity="รายได้" type="มูลค่า"><quantity>1.70</quantity> <unit>บาท</unit><offset>ต่อลิตร</offset></measure> และ ชดเชยแก๊สโซฮอล์ อี 20 ที่ <measure commodity="รายได้" type="มูลค่า"><quantity>30</quantity> <unit>สตางค์</unit><offset>ต่อลิตร</offset></measure> แก๊สโซฮอล์ อี 85 ที่ <measure commodity="รายได้" type="มูลค่า"><quantity>8</quantity> <unit>บาท</unit><offset>ต่อลิตร</offset></measure> และไบโอดีเซล ที่ <measure commodity="รายได้" type="มูลค่า"><quantity>20</quantity> <unit>สตางค์</unit><offset>ต่อลิตร</offset></measure></p>
+<p>ก่อนหน้านี้ นายวรรณรัตน์ ชาญนุกูล รัฐมนตรีว่าการกระทรวงพลังงาน ได้ประชุมร่วมกับคณะกรรมการบริหารนโยบายพลังงาน (กบง.) ที่มีนายอภิสิทธิ์ เวชชาชีวะ นายกรัฐมนตรี เป็นประธาน ได้พิจารณาลดเก็บเงินกองทุนฯ เพื่อไม่ให้ประชาชนได้รับผลกระทบ หลังจากที่ ครม.ได้อนุมัติกรอบเพิ่มภาษีสรรพสามิตน้ำมัน<measure commodity="ประเภทน้ำมัน" type="จำนวน"><offset>ทุก</offset><unit>ประเภท</unit></measure><measure commodity="ภาษี" type="มูลค่า"><offset>อีก</offset><offset>ลิตรละ</offset> <quantity>2</quantity> <unit>บาท</unit></measure></p></body>
+</news>

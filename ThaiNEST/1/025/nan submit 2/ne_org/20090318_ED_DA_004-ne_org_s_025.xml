@@ -1,0 +1,25 @@
+<teiHeader>
+<fileDesc>
+<titleStmt>
+  <title>จี-บ็อกซ์  </title>
+  <author>เดลินิวส์  </author>
+</titleStmt>
+<publicationStmt>
+  <publisher>เดลินิวส์  </publisher>
+  <pubPlace>http://www.dailynews.co.th  </pubPlace>
+  <date>2009-03-18 00:00:00  </date>
+</publicationStmt>
+<notesStmt>
+  <note>การศึกษาและเทคโนโลยี  </note>
+</notesStmt>
+<sourceDesc>
+  <bibl>http://www.dailynews.co.th/web/html/popup_news/Default.aspx?Newsid=193697&NewsType=1&Template=1  </bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<news>
+<headline>จี-บ็อกซ์</headline>
+<lead></lead>
+<neck></neck>
+<body><p>กล่องดำรถยนต์ จี-บ็อกซ์ (G-BOX) ผลงานของโปรแกรมระบบขนส่งและจราจรอัจฉริยะ <orgName>เนคเทค</orgName> เป็นอุปกรณ์สำหรับให้ข้อมูลที่จำเป็นและเป็นปัจจุบันในการเดินทาง โดยจัดเก็บข้อมูลสถานะต่าง ๆ ของรถยนต์ในเวลานั้น ๆ เช่น ความเร็วรถ พิกัดตำแหน่งจากอุปกรณ์จีพีเอส (GPS) การปิด-เปิดอุปกรณ์ในรถ และระบบรายงานการพบอุบัติเหตุ จุดอันตราย ข้อมูลจะถูกส่งผ่านไปยังเซิร์ฟเวอร์ด้วยระบบจีพีอาร์เอส เป้าหมายการพัฒนาในอนาคตจะสามารถเชื่อมโยงข้อมูลรถยนต์แต่ละคันให้ติดต่อกันเองได้อัตโนมัติโดยผ่านศูนย์ข้อมูลกลาง</p></body>
+</news>

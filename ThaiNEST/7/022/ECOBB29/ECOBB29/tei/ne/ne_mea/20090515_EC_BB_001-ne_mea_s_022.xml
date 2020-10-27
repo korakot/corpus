@@ -1,0 +1,30 @@
+<teiHeader>
+<fileDesc>
+<titleStmt>
+  <title>เกษตรฯเปิดผลสำรวจปลูกยางล้านไร่ ระบุภาคเหนือ-อีสานไม่เกิน2ปีกรีดได้  </title>
+  <author>กรุงเทพธุรกิจ  </author>
+</titleStmt>
+<publicationStmt>
+  <publisher>กรุงเทพธุรกิจ  </publisher>
+  <pubPlace>http://www.bangkokbiznews.com  </pubPlace>
+  <date>2009-05-15 00:00:00  </date>
+</publicationStmt>
+<notesStmt>
+  <note>เศรษฐกิจ  </note>
+</notesStmt>
+<sourceDesc>
+  <bibl>http://www.bangkokbiznews.com/2009/05/15/news_28746918.php?news_id=28746918  </bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<news>
+<headline>เกษตรฯเปิดผลสำรวจปลูกยาง<measure commodity="พื้นที่ปลูกยาง" type="ปริมาณ"><quantity>ล้าน</quantity><unit>ไร่</unit></measure> ระบุภาคเหนือ-อีสาน<measure commodity="ระยะเวลาเริ่มกรีดยาง" type="ปริมาณ"><offset>ไม่เกิน</offset><quantity>2</quantity><unit>ปี</unit></measure>กรีดได้</headline>
+<lead>กรมวิชาการเกษตร เปิดผลสำรวจโครงการยางล้านไร่ ยังไม่เข้าเป้า เหตุซีพีแจกต้นกล้าล่าช้า ชี้พื้นที่เพาะปลูกภาคเหนือ-อีสานต้นยางโตเกินคาดเชื่อ<measure commodity="ระยะเวลาเริ่มกรีดยาง" type="ปริมาณ"><offset>อีก</offset> <quantity>2</quantity> <unit>ปี</unit></measure> กรีดได้ในเนื้อที่ <measure commodity="พื้นที่ปลูกยาง" type="ปริมาณ"><quantity>1.6 แสน</quantity><unit>ไร่</unit></measure> ช่วยเพิ่มผลผลิตยางให้ประเทศ<measure commodity="ผลผลิต" type="ปริมาณ"><offset>ปีละ</offset> <quantity>2.2 แสน</quantity><unit>ตัน</unit></measure></lead>
+<neck></neck>
+<body><p>นายสุขุม วงษ์เอก ผู้อำนวยการสถาบันวิจัยยาง กรมวิชาการเกษตร เปิดเผยว่าจากการติดตามและประเมินแหล่งปลูกยางใหม่ในโครงการยาง <measure commodity="พื้นที่ปลูกยาง" type="ปริมาณ"><quantity>1 ล้าน</quantity><unit>ไร่</unit></measure> ซึ่งเริ่มปลูกตั้งแต่ปี 2547-2549 เนื้อที่รวม <measure commodity="พื้นที่ปลูกยาง" type="ปริมาณ"><quantity>820,617</quantity> <unit>ไร่</unit></measure> เกษตรกร <measure commodity="เกษตรกร" type="จำนวน"><quantity>112,460</quantity> <unit>ราย</unit></measure> จากการสุ่มตรวจสวนยางของเกษตรกรในโครงการพื้นที่ที่มีการปลูกยางมาก อาทิเช่น จังหวัดอุบลราชธานี ศรีสะเกษ ยโสธร มุกดาหาร กาฬสินธุ์ เลย น่าน เชียงราย และ พะเยา พบว่าต้นยางพาราในสวนยางใหม่ทั้งพื้นที่ภาคเหนือและภาคตะวันออกเฉียงเหนือ มีอัตราการเจริญเติบโตดี</p>
+<p>ยางที่ปลูกเมื่อปี 2547 อายุ <measure commodity="อายุ" type="ปริมาณ"><quantity>30</quantity> <unit>เดือน</unit></measure> มีอัตราการรอดตาย <measure commodity="อัตราการรอดตาย" type="ปริมาณ"><quantity>89.8</quantity><unit>%</unit></measure> ยางพาราที่ปลูกเมื่อปี 2548 ยางอายุ <measure commodity="อายุ" type="ปริมาณ"><quantity>18</quantity> <unit>เดือน</unit></measure> มีปริมาณต้นยางรอดตาย <measure commodity="อัตราการรอดตาย" type="ปริมาณ"><quantity>90.2</quantity><unit>%</unit></measure> มีการเติบโตทางความสูงของต้น<measure commodity="ความสูง" type="ปริมาณ"><offset>เฉลี่ย</offset> <quantity>3.98</quantity> <unit>เมตร</unit></measure> ส่วนยางพาราคาที่ปลูกปี 2549 ยางอายุ <measure commodity="อายุ" type="ปริมาณ"><quantity>6-8</quantity> <unit>เดือน</unit></measure> มีจำนวนต้นยางรอดตาย <measure commodity="อัตราการรอดตาย" type="ปริมาณ"><quantity>91</quantity><unit>%</unit></measure>จะเห็นได้ว่าพื้นที่ปลูกยางพารายังไม่ครบ <measure commodity="พื้นที่ปลูกยาง" type="ปริมาณ"><quantity>1 ล้าน</quantity><unit>ไร่</unit></measure> ตามเป้าหมายของโครงการ</p>
+<p>ทั้งนี้เป็นผลมาจากการที่บริษัทเจริญโภคภัณฑ์เมล็ดพันธุ์ จำกัด ในเครือเจริญโภคภัณฑ์ หรือ ซีพี ไม่สามารถส่งมอบกล้ายางได้ทันเวลาเพาะปลูกเมื่อปี 2549 ทำให้เกษตรกรบางส่วนเปลี่ยนใจหันไปปลูกพืชชนิดอื่นทดแทน เช่น ยูคาลิปตัสและข้าวโพด ซึ่งได้แจ้งผลการประเมินให้สำนักงานกองทุนสงเคราะห์การทำสวนยาง (สกย.) แล้ว</p>
+<p>อย่างไรก็ตาม เพื่อให้พื้นที่ปลูกยางพาราเป็นไปตามเป้าหมายของนโยบายรัฐบาล เห็นชอบขยายเวลาการดำเนินโครงการเมื่อปี 2550 เพิ่ม<measure commodity="พื้นที่ปลูกยาง" type="ปริมาณ"><offset>อีก</offset> <quantity>120,782</quantity> <unit>ไร่</unit></measure> เกษตรกร<measure commodity="เกษตรกร" type="จำนวน"><offset>จำนวน</offset> <quantity>17,803</quantity> <unit>ราย</unit></measure> ส่งผลให้ปัจจุบันยังขาดพื้นที่ปลูก<measure commodity="พื้นที่ปลูกยาง" type="ปริมาณ"><offset>อีก</offset> <quantity>58,601</quantity> <unit>ไร่</unit></measure> จึงจะครบ <measure commodity="พื้นที่ปลูกยาง" type="ปริมาณ"><quantity>1 ล้าน</quantity><unit>ไร่</unit></measure></p>
+<p>นายสุขุม กล่าวว่าสองปีหน้านี้ยางพาราที่ปลูกเมื่อปี 2547 <measure commodity="พื้นที่ปลูกยาง" type="ปริมาณ"><offset>จำนวน</offset> <quantity>167,923</quantity> <unit>ไร่</unit></measure> เริ่มเปิดกรีดได้ ส่วนปีถัดๆ ไปพื้นที่ให้ผลผลิตจะขยายตัวเพิ่มขึ้น หากยางพาราในโครงการให้ผลผลิตเต็มพื้นที่ปลูก คาดว่าไทยจะมีผลผลิตยางธรรมชาติเพิ่มขึ้น<measure commodity="ผลผลิต" type="ปริมาณ"><offset>ปีละ</offset> <quantity>220,000</quantity> <unit>ตัน</unit></measure></p>
+<p>�เชื่อว่าสวนยางใหม่จะดึงแรงงานกลับคืนถิ่น ลดปัญหาการว่างงานและแรงงานอพยพได้ ขณะที่ภาครัฐน่าจะมีรายได้จากเงินเก็บจากภาษีส่งออกยางเพิ่ม<measure commodity="รายได้" type="มูลค่า"><offset>ปีละ</offset> <quantity>200-300 ล้าน</quantity><unit>บาท</unit></measure> ปัจจุบันเก็บอยู่ที่ <measure commodity="รายได้" type="มูลค่า"><quantity>0.90-1.40</quantity> <unit>บาท</unit><offset>ต่อกิโลกรัม</offset></measure> และช่วยปรับสภาพแวดล้อมในพื้นที่ ลดสภาวะโลกร้อน� นายสุขุม กล่าว</p></body>
+</news>

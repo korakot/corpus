@@ -1,0 +1,25 @@
+<teiHeader>
+<fileDesc>
+<titleStmt>
+  <title>แปลงได้ทุกไฟล์  </title>
+  <author>เดลินิวส์  </author>
+</titleStmt>
+<publicationStmt>
+  <publisher>เดลินิวส์  </publisher>
+  <pubPlace>http://www.dailynews.co.th  </pubPlace>
+  <date>2009-05-27 00:00:00  </date>
+</publicationStmt>
+<notesStmt>
+  <note>การศึกษาและเทคโนโลยี  </note>
+</notesStmt>
+<sourceDesc>
+  <bibl>http://www.dailynews.co.th/web/html/popup_news/Default.aspx?Newsid=200242&NewsType=1&Template=1  </bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<news>
+<headline>แปลงได้ทุกไฟล์</headline>
+<lead></lead>
+<neck></neck>
+<body><p><name head="เครื่อง">เครื่องสแกนเนอร์ของ<name>ฟูจิตซึ</name> <name head="รุ่น">รุ่น สแกนสเน็บ เอส 1500</name> สามารถแปลงเอกสารให้เป็น<name head="ไฟล์">ไฟล์ดิจิทัล</name>ได้รวดเร็ว มีระบบสแกน 2 หน้า สามารถสแกนเอกสารขาวดำ 60 หน้าต่อนาที สแกนเอกสารสี 20 หน้าต่อนาที มีความละเอียดในการสแกนสูงสุดที่ 600 จุดต่อตารางนิ้ว</p></body>
+</news>

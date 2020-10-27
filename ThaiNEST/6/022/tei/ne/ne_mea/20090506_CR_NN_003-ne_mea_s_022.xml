@@ -1,0 +1,30 @@
+<teiHeader>
+<fileDesc>
+<titleStmt>
+  <title>โจรใต้บึ้มรถชาวบ้านสาหัส3 ทหารเข้ามาช่วยใช้อาวุธสงครามถล่มซ้ำ  </title>
+  <author>แนวหน้า  </author>
+</titleStmt>
+<publicationStmt>
+  <publisher>แนวหน้า  </publisher>
+  <pubPlace>http://www.naewna.com  </pubPlace>
+  <date>2009-05-06 00:00:00  </date>
+</publicationStmt>
+<notesStmt>
+  <note>อาชญากรรม  </note>
+</notesStmt>
+<sourceDesc>
+  <bibl>http://www.naewna.com/news.asp?ID=160176  </bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<news>
+<headline>โจรใต้บึ้มรถชาวบ้านสาหัส<measure commodity="ชาวบ้าน" type="จำนวน"><quantity>3</quantity></measure> ทหารเข้ามาช่วยใช้อาวุธสงครามถล่มซ้ำ</headline>
+<lead></lead>
+<neck></neck>
+<body><p>เมื่อวันที่ 5 พฤษภาคม พ.ต.อ.ภูมิเพชร พิพัฒน์เพชรภูมิ รอง ผกก.ภจว.ยะลา พร้อมเจ้าหน้าที่ตำรวจจากกองวิทยาการเขต 45 ยะลา รับแจ้งมีคนร้ายลอบวางระเบิดรถยนต์ชาวบ้าน ที่บริอเวณ บ้านควนนางา ม.4 ต.ห้วยกระทิง อ.กรงปินัง จ.ยะลา</p>
+<p>เมื่อถึงที่เกิดเหตุ พบรถกระบะ ทะเบียน บฉ 1531 ยะลา ตกอยู่ข้างทาง สถาพรถถูกแรงอัดของระเบิดจนได้รับความเสียหาย บนถนนพบหลุมระเบิด<measure commodity="หลุมระเบิด" type="ปริมาณ"><offset>กว้าง</offset> <quantity>3</quantity> <unit>เมตร</unit> <offset>ลึก</offset> <quantity>1.50</quantity> <unit>เมตร</unit></measure> และพบเศษสะเก็ดระเบิดตกกระจายไปทั่วบริเวณ นอกจากนี้ ยังพบสายไฟฟ้าถูกลากยาวเข้าไปในป่าริมทาง<measure commodity="สายไฟฟ้า" type="ปริมาณ"><offset>ประมาณ</offset> <quantity>50</quantity> <unit>เมตร</unit></measure> บนเนินเขาเจ้าหน้าที่ยังพบปลอกกระสุนปืนเอ็ม.16 ตกอยู่ข้างทางเป็น<measure commodity="ปลอกกระสุน" type="จำนวน"><offset>จำนวนมาก</offset></measure></p>
+<p>ขณะเดียวกันเจ้าหน้าที่พบผู้บาดเจ็บ <measure commodity="ผู้บาดเจ็บ" type="จำนวน"><offset>จำนวน</offset> <quantity>3</quantity> <unit>ราย</unit></measure>คือ นายอุเซ็ง มะ อายุ <measure commodity="อายุ" type="ปริมาณ"><quantity>45</quantity> <unit>ปี</unit></measure> นางสุดา บุญผาง อายุ <measure commodity="อายุ" type="ปริมาณ"><quantity>35</quantity> <unit>ปี</unit></measure> ภรรยา และด.ญ.หนึ่งธิดา คอราแต อายุ <measure commodity="อายุ" type="ปริมาณ"><quantity>4</quantity> <unit>เดือน</unit></measure> เจ้าหน้าที่นำตัวส่งโรงพยาบาลบันนังสตา</p>
+<p>สอบสวน นายอุเซ้ง ให้การว่า ตนขับมาพร้อมภรรยา และหลานสาว เมื่อมาถึงที่เกิดเหตุ ได้เกิดระเบิดดังสนั่นหวั่นไหวบริเวณด้านหน้ารถ ทำให้รถเสียหลักตกลงข้างทาง จากนั้นมีทหารพรานที่ 4714 <measure commodity="ทหารพราน" type="จำนวน"><offset>จำนวน</offset> <quantity>6</quantity> <unit>นาย</unit></measure> ขับรถจักรยานยนต์ลาดตระเวนผ่านมาพอดี คนร้ายจึงได้ระดมยิงด้วยอาวุธปืนสงครามเข้าใส่ และเกิดการปะทะกันนาน<measure commodity="การปะทะ" type="ปริมาณ"><offset>กว่า</offset> <quantity>10</quantity> <unit>นาที</unit></measure> ก่อนที่คนร้ายจะหลบหนีเข้าป่าไป</p>
+<p>เบื้องต้นเจ้าหน้าที่สันนิษฐานว่า กลุ่มผู้ก่อความไม่สงบคิดว่ารถกระบะคันดังกล่าวเป็นของเจ้าหน้าที่ จึงทำการจุดชนวนระเบิด จากนั้นยิงใส่กลุ่มทหารก่อนที่จะหลบหนีไป 
+</p></body>
+</news>

@@ -1,0 +1,27 @@
+<teiHeader>
+<fileDesc>
+<titleStmt>
+  <title>ชาวบ้านแห่ขุดจักจั่นเขาแดง เข้าฝันถูกหวยรวยยกอำเภอ  </title>
+  <author>แนวหน้า  </author>
+</titleStmt>
+<publicationStmt>
+  <publisher>แนวหน้า  </publisher>
+  <pubPlace>http://www.naewna.com  </pubPlace>
+  <date>2009-05-06 00:00:00  </date>
+</publicationStmt>
+<notesStmt>
+  <note>อาชญากรรม  </note>
+</notesStmt>
+<sourceDesc>
+  <bibl>http://www.naewna.com/news.asp?ID=160175  </bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<news>
+<headline>ชาวบ้านแห่ขุดจักจั่นเขาแดง เข้าฝันถูกหวยรวยยกอำเภอ</headline>
+<lead></lead>
+<neck></neck>
+<body><p>เมื่อวันที่ 5 พฤษภาคม ผู้สื่อข่าวได้รับแจ้งว่า ชาวบ้าน<measure commodity="ชาวบ้าน" type="จำนวน"><offset>จำนวน</offset><offset>หลาย</offset><quantity>พัน</quantity><unit>คน</unit></measure>เดินทางไปขุดจั๊กจั่นเขาแดง ที่บริเวณป่ายูคาลิปตัส ผาสองห้อง หมู่ 9 บ้านเนินผาแดง ต.นางัว อ.น้ำโสม จ.อุดรธานี โดยชาวบ้านเชื่อกันว่า จั๊กจั่นเขาแดงเป็นสัตว์ให้โชคและหายาก ชาวบ้านจึงอยากมีไว้เป็นศิริมงคล</p>
+<p>จากการตรวจสอบ ผู้สื่อข่าวพบว่า จั๊กจั่นเขาแดงมีเขา<measure commodity="รูปแบบจั๊กจั่นเขาแดง" type="จำนวน"><offset>หลาย</offset><unit>รูปแบบ</unit></measure> ทำรูอาศัยอยู่ในดิน มีลำตัวขนาดเท่านิ้วก้อย ยาว <measure commodity="ความยาว" type="ปริมาณ"><quantity>1-2</quantity> <unit>นิ้ว</unit></measure> ส่วนเขามีขนาดเท่าก้านไม้จิ้มฟัน ยาว <measure commodity="ความยาว" type="ปริมาณ"><quantity>1-3</quantity> <unit>นิ้ว</unit></measure> โดยชาวบ้านจะขุดได้<measure commodity="จั๊กจั่นเขาแดง" type="จำนวน"><offset>คนละ</offset> <quantity>10-50</quantity> <unit>ตัว</unit></measure> และขายในราคา<measure commodity="ราคา" type="มูลค่า"><offset>ตัวละ</offset><quantity>300-500</quantity> <unit>บาท</unit></measure> โดยมีพ่อค้ามารับซื้อไปขาย และซื้อเก็บไว้ เพราะเชื่อว่าจั๊กจั่นเป็นสัตว์มงคลให้โชคลาภ เนื่องจากมีชาวบ้านที่เก็บจั๊กจั่นไว้แล้วถูกหวยเลข 11 <measure commodity="คนถูกหวย" type="ปริมาณ"><offset>เกือบ</offset><offset>ทั้ง</offset><unit>อำเภอ</unit></measure></p>
+<p>นางราตรี ใจช่วง อายุ <measure commodity="อายุ" type="ปริมาณ"><quantity>50</quantity> <unit>ปี</unit></measure> ราษฎรบ้านไทยรุ่งเรือง ต.นางัว อ.น้ำโสม เปิดเผยว่า ก่อนมาขุดจั๊กจั่น ฝันว่า มีตัวจั๊กจั่นเขาแดงเดินมาหา <measure commodity="จั๊กจั่นเขาแดง" type="จำนวน"><quantity>11</quantity> <unit>ตัว</unit></measure> จากภูเขาที่เคยโดนไฟป่าไหม้ในพื้นที่อ.น้ำโสม เมื่อ<measure commodity="เวลา" type="ปริมาณ"><offset>หลาย</offset><unit>เดือน</unit></measure>ก่อน จากนั้นก็เดินกลับไปยังป่ายูคาลิปตัส วันรุ่งขึ้นจึงได้ชวนเพื่อนบ้านไปขุดที่ป่ายูคาฯ ก็พบจั๊กจั่น จึงได้ซื้อหวยเลข 11 ถูกได้เงิน <measure commodity="เงิน" type="มูลค่า"><quantity>150,000</quantity> <unit>บาท</unit></measure> หลังจากนั้นเพื่อนบ้านก็แห่มาขุดเพื่อความเป็นสิริมงคลและหวังถูกหวย </p></body>
+</news>

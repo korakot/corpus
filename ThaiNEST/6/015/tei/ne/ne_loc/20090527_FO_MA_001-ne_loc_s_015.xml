@@ -1,0 +1,25 @@
+<teiHeader>
+<fileDesc>
+<titleStmt>
+  <title>ยังคุมเข้ม  </title>
+  <author>มติชน  </author>
+</titleStmt>
+<publicationStmt>
+  <publisher>มติชน  </publisher>
+  <pubPlace>http://www.matichon.co.th/  </pubPlace>
+  <date>2009-05-27 00:00:00  </date>
+</publicationStmt>
+<notesStmt>
+  <note>ต่างประเทศ  </note>
+</notesStmt>
+<sourceDesc>
+  <bibl>http://www.matichon.co.th/matichon/view_news.php?newsid=01for05270552&sectionid=0104&day=2009-05-27  </bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<news>
+<headline>ยังคุมเข้ม</headline>
+<lead></lead>
+<neck></neck>
+<body><p>เจ้าหน้าที่สาธารณสุข<placeName>จีน</placeName>ขึ้นไปตรวจอาการไข้ของผู้โดยสารถึงบนเครื่องบินที่เดินทางมาจาก<placeName>มาเลเซีย</placeName> ระหว่างจอดรอปล่อยผู้โดยสารลงจากเครื่องที่<placeName><component><prefix>สนามบินนานาชาติ</prefix>ฝู่ตง</component>ใน<component><prefix>มหานคร</prefix>เซียงไฮ้</component> <component><prefix>ประเทศ</prefix>จีน</component></placeName> เมื่อวันที่ 26 พฤษภาคม เพื่อป้องกันไข้หวัดใหญ่สายพันธุ์ 2009 (เอพี)</p></body>
+</news>
