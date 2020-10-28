@@ -3,3 +3,5 @@
 ดูรายละเอียดเพิ่มเติมที่ http://lexitron.nectec.or.th 
 
 Unzipped จาก [AIFORTHAI-LexitronCorpus.zip](https://aiforthai.in.th/download.php?c=Lexitron)
+
+[![](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/3.0/th)

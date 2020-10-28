@@ -3,3 +3,5 @@
 ดูรายละเอียดเพิ่มเติมที่ http://copycatch.in.th/thai-qa-task.html 
 
 Unzipped จาก [AIFORTHAI-ThaiQACorpus.zip](https://aiforthai.in.th/download.php?c=ThaiQA)
+
+[![](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/3.0/th)

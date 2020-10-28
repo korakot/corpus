@@ -3,3 +3,5 @@
 ดูรายละเอียดเพิ่มเติมที่ http://thailang.nectec.or.th/best 
 
 Unzipped จาก [AIFORTHAI-BESTCorpus.zip](https://aiforthai.in.th/download.php?c=BEST)
+
+[![](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/3.0/th)
